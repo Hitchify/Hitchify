@@ -3,7 +3,7 @@
 -  We are a travel service provider company 
 -  Cost effective and efficient transportation provider
 - 🌱 I’m currently learning technologies to build myself a website & an app
-- 💞️ I’m looking to collaborate on hitlab
+- 💞️ I’m looking to collaborate on gitlab
 - 📫 How to reach me -> https://github.com/Hitchify
 
 <!---
